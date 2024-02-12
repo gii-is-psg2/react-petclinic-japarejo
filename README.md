@@ -1,5 +1,5 @@
 # React Petclinic
-Small project based on spring-petclinic for teaching SPA architectures with React, Java and Spring. Originally developed for DP1 and adapted for the PSG2 course at the Software Engineering degree of University of Sevilla. Now with automated build using github actions (on push to master).
+Small project based on spring-petclinic for teaching SPA architectures with React, Java and Spring. Originally developed for DP1 and adapted for the PSG2 course at the Software Engineering degree of University of Sevilla. Now with automated build using github actions (on push to main).
 
 This is a fork of https://github.com/spring-projects/spring-petclinic  The main changes that have been performed were:
 - Trimming several parts of the application to keep the example low
